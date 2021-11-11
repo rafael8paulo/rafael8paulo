@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como analista de suporte ...
 - 📚 Estudando Back-End (NodeJS, Java)
 - 📫 Contate-me no e-mail: rafael8paulo@gmail.com
-- 🤖 FIPP - FACULDADE DE INFORMATICA DE PRESIDENTE PRUDENTE
+- 🤖 FIPP - FACULDADE DE INFORMATICA DE PRESIDENTE PRUDENTE [SISTEMAS DE INFORMAÇÃO BSI ]
 
 <div>
   <a href="https://beacons.ai/rafael8paulo">
