@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Paulo!! 👋
 
 - 🔭 Atualmente trabalho como analista de suporte ...
-- 📚 Estudando Back-End (Node, Java)
+- 📚 Estudando Back-End (NodeJS, Java)
 - 📫 Contate-me no e-mail: rafael8paulo@gmail.com
 - 🤖 FIPP - FACULDADE DE INFORMATICA DE PRESIDENTE PRUDENTE
 
