@@ -2,12 +2,12 @@
 
 - 🔭 Atualmente sou desenvolvedor de software no ANYMARKET TECHNOLOGIES
 - 📫 Contate-me no e-mail: rafael8paulo@gmail.com
-- 🤖 Formado em Sistemas de informação pela Unoeste de Presidente Prudente
+- 🤖  Formado em Sistemas de Informação pela Unoeste de Presidente Prudente.
 
 <div>
   <a href="https://beacons.ai/rafael8paulo">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael8paulo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael8paulo&layout=compact&langs_count=16&theme=dark"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael8paulo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
   <div>
