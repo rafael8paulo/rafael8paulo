@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Rafael Paulo!! 👋
 
-- 🔭 Atualmente trabalho como analista de suporte ...
-- 📚 Estudando Back-End (NodeJS, Java)
+- 🔭 Atualmente sou desenvolvedor de software no ANYMARKET TECHNOLOGIES
 - 📫 Contate-me no e-mail: rafael8paulo@gmail.com
-- 🤖 FIPP - FACULDADE DE INFORMATICA DE PRESIDENTE PRUDENTE [SISTEMAS DE INFORMAÇÃO BSI ]
+- 🤖 Formado em Sistemas de informação pela Unoeste de Presidente Prudente
 
 <div>
   <a href="https://beacons.ai/rafael8paulo">
